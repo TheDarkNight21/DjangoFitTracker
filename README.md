@@ -1,6 +1,6 @@
-#Django Fit Tracker
+Django Fit Tracker
 
-#Overview
+Overview
 
 Fit Tracker is a Django-based fitness tracking web application designed to help users monitor their daily calorie intake, protein, carbohydrates, fats, and weight. It allows users to set nutritional goals, log daily meals and their nutritional information, and track progress over time through detailed visualizations and data summaries.
 
